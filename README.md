@@ -1,9 +1,9 @@
 **Link** 
 https://youtu.be/4fe3LR2zilw 
 
-**ParkMapper**
+**MobileParker**
 
-ParkMapper is an advanced web application developed using Next.js and React, designed to showcase park mapping features with seamless integration of the Google Maps API and custom APIs.
+MobileParker is an advanced web application developed using Next.js and React, designed to showcase park mapping features with seamless integration of the Google Maps API and custom APIs.
 
 **Project Overview**
 
@@ -38,7 +38,7 @@ git clone
 
 Navigate into the project directory and install the required dependencies:
 
-cd parkmapper
+cd MobileParker
 
 npm install
 
