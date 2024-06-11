@@ -1,0 +1,34 @@
+{
+    "repos": [
+      {
+        "id": 1,
+        "title": "mobile-home-pricing-api",
+        "description": "his API provides up-to-date pricing information for mobile homes across various states, allowing users to fetch data on market trends, historical prices, and price predictions.",
+        "stargazers_count": 100
+      },
+      {
+        "id": 2,
+        "title": "real-estate-market-dashboard-api",
+        "description": "A Vue.js powered API for dynamic and interactive real estate market dashboards, focusing on mobile home parks. It integrates real-time data visualization of market values, demographic shifts, and investment opportunities.",
+        "stargazers_count": 15
+      },
+      {
+        "id": 3,
+        "title": "mobile-home-sales-insights-api",
+        "description": "A Nuxt.js based API for mobile home sales that provides insights into sales data, market saturation, and demand forecasts. Ideal for enhancing e-commerce platforms with server-side rendered content for improved user engagement and SEO.",
+        "stargazers_count": 22
+      },
+      {
+        "id": 4,
+        "title": "property-investment-api",
+        "description": "This API offers tools for analyzing investment opportunities in mobile home parks. It features capabilities for ROI calculations, market comparison, and financial modeling.",
+        "stargazers_count": 34
+      },
+      {
+        "id": 5,
+        "title": "mobile-home-valuation-engine",
+        "description": "An ElasticSearch implemented API tailored to quickly assess and provide valuation of mobile homes based on current market data, previous transactions, and regional economic indicators.",
+        "stargazers_count": 18
+      }
+    ]
+  }
