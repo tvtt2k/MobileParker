@@ -53,6 +53,10 @@ googleMapsApiKey:"Your API KEY”
 Make sure to replace your_api_key_here with your actual API key.  
 <br/><br/>
 
+2. Change the import Card ... from project-list.js
+   You have to put your path, just do 'Copy Path' for the file "card.js"
+
+
 **Running the Application**
 
 **Development Mode**
