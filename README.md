@@ -34,7 +34,7 @@ Files were placed on the client side or server side as appropriate. For example,
 
 Start by cloning the repository:
 
-git clone <https://github.com/tvtt2k/ParkMapper>
+git clone 
 
 Navigate into the project directory and install the required dependencies:
 
